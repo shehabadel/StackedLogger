@@ -1,2 +1,2 @@
 # StackedLogger
-A Node.js module for saving logs in custom databases.
+A Node.js module for saving logs using `morgan` in custom databases.
