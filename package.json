@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@types/morgan": "^1.9.3",
+    "mongoose": "^6.6.1",
     "morgan": "*"
   }
 }
